@@ -93,7 +93,7 @@ This repository contains:
 
 ## 📞 Contact Us
 For any queries or collaboration, feel free to reach out to **Team TerraCharge**.  
-📧 Email: [your-email@example.com](tarunmhanta1@gmail.com)  
+📧 Email: [tarunmhanta1@gmail.com](tarunmhanta1@gmail.com)  
 ---
 
 🚀 **"Innovate, Sustain, and Charge the Future!"** 🔋
