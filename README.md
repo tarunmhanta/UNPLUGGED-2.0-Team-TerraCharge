@@ -1,6 +1,6 @@
-# UNPLUGGED-2.0-Team-TerraCharge
+# 🚀 UNPLUGGED 2.0
 
-# 🚀 UNPLUGGED 2.0 - Round 2
+## Round 2
 
 ## 🔷 Team: TerraCharge
 **Members:**
@@ -54,7 +54,7 @@
 
 ## 🛠️ PCB Design
 The **Printed Circuit Board (PCB)** layout includes:
-- **Complete PLC Layout** 🔄
+- **Complete PCB Layout** 🔄
 - **Front Copper Layout** 🔆
 - **Back Copper Layout** 🔶
 - **3D Rendered Image of PCB** 🏗️
@@ -81,7 +81,7 @@ This repository contains:
 ### 📌 How to Use This Repository?
 1. **Clone the repository**:  
    ```sh
-   git clone https://github.com/your-repo-link.git
+   git clone https://github.com/tarunmhanta/UNPLUGGED-2.0-Team-TerraCharge.git
    ```
 2. **Navigate to the project directory**:  
    ```sh
@@ -93,9 +93,7 @@ This repository contains:
 
 ## 📞 Contact Us
 For any queries or collaboration, feel free to reach out to **Team TerraCharge**.  
-📧 Email: [your-email@example.com](mailto:your-email@example.com)  
-🔗 GitHub: [your-repo-link](https://github.com/your-repo-link)
-
+📧 Email: [your-email@example.com](tarunmhanta1@gmail.com)  
 ---
 
 🚀 **"Innovate, Sustain, and Charge the Future!"** 🔋
